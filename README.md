@@ -1,3 +1,0 @@
-# Geneberry.github.io
-
-Testing - trying to set up a site...
